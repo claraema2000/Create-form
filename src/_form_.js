@@ -12,4 +12,4 @@
 
 // 5. use hook to handle states & submit & error. example: react hook form
 
-// 5.1 reusable Component
+// 6. reusable Component

@@ -1,4 +1,5 @@
 import './App.css'
+import Grandpa from './Components/Grandpa/Grandpa'
 import HookForm from './Components/HookForm/HookForm'
 import RefForm from './Components/RefForm/RefForm'
 import ReusableForm from './Components/ReusableForm/ReusableForm'
@@ -17,6 +18,7 @@ function App() {
   return (
     <>
       <h1>Form Master</h1>
+      <Grandpa></Grandpa>
       {/* <SimpleForm></SimpleForm> */}
       {/* <StatefulForm></StatefulForm> */}
       {/* <RefForm></RefForm> */}
